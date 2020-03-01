@@ -1,0 +1,4 @@
+'patientIdwidth', (1536, 5)
+'imHeight', (512, 5)
+'imWidth', (0, 6)
+'PatientIdRegion', (1024, 15)
